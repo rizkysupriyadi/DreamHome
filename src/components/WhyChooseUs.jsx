@@ -4,7 +4,7 @@ export default function WhyChooseUs() {
   return (
     <section
       className="py-20 px-4 sm:px-8 md:px-16 lg:px-24 xl:px-32 bg-orange-50 text-gray-800"
-      data-aos="fade-up"
+      data-aos="zoom-in"
     >
       <div className="max-w-6xl mx-auto text-center">
         <p className="text-orange-500 uppercase md:text-lg text-xs font-semibold tracking-wide mb-4">

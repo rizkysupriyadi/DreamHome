@@ -3,7 +3,7 @@ import gambar1 from "../assets/download.jpg";
 
 export default function Hero() {
   return (
-    <section className="mt-24 lg:mb-32 flex flex-col-reverse lg:flex-row items-start justify-between px-4 sm:px-8 md:px-16 lg:px-24 xl:px-[400px] py-8 sm:py-20 gap-y-4 lg:gap-x-40 mb-6">
+    <section className="mt-24 lg:mb-32 flex flex-col-reverse lg:flex-row items-start justify-between px-4 sm:px-8 md:px-16 lg:px-24 xl:px-32 2x1:px-[400px] py-8 sm:py-20 gap-y-4 lg:gap-x-40 mb-6">
       
       {/* Kolom Teks */}
       <div className="w-full lg:w-[600px] text-center lg:text-left" data-aos="zoom-in">
